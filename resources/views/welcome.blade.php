@@ -83,7 +83,6 @@
 
     </section><!-- /Hero Section -->
 
-
     {{-- <section id="slider" class="slider section">
         <div id="mainSlider" class="carousel slide" data-bs-ride="carousel">
 
